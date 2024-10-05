@@ -23,4 +23,4 @@ A University version of Bibliotheca could be made available shortly, it would be
 
 ## Contact
 
-We do not have a contact setup yet, but in the near future (whenever we figure this stuff out) we will.
+We do not have a contact setup yet, but we will soon (whenever we figure this stuff out).
