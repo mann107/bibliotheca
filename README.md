@@ -4,9 +4,7 @@
 
 Bibliotheca is a vast online library which contains resources for different courses following the Ontario grade 12 curriculum.
 
-> Bibliotheca's website created by **Manraj Mann** who also dabbles in the main library
-
-> Bibliotheca's main library was created by **Tegvir Singh**, who dedicated his time to this library
+> Bibliotheca is currently managed by two students, Tegvir Singh and Manraj Mann. They have devoted their time to make your lives easier (even if its just by a bit)
 
 A University version of Bibliotheca could be made available shortly, it would be created by the same people (unless you would like to help...)
 
