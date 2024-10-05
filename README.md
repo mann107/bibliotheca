@@ -10,6 +10,9 @@ Bibliotheca is a vast online library which contains resources for different cour
 
 A University version of Bibliotheca could be made available shortly, it would be created by the same people (unless you would like to help...)
 
+> [!WARNING]
+> Although we are trying to push out the most recent versions of everything, there can be mishaps that happen. Be sure to check whether or not the information is still relevant!
+
 ## The Main Purpose of Bibliotheca
 - Help others succeed in their educational journeys
 - Save you from suffering
