@@ -1,5 +1,7 @@
 # Bibliotheca
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote)
+
 ## An Explanation
 
 Bibliotheca is a vast online library which contains resources for different courses following the Ontario grade 12 curriculum.
