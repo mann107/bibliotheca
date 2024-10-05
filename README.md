@@ -2,12 +2,13 @@
 
 ###An Explanation
 
-Bibliotheca is a vast online library which contains resources for different courses following the ontario grade 12 curriculum.
+Bibliotheca is a vast online library which contains resources for different courses following the Ontario grade 12 curriculum.
 
-> Bibliotheca's website created by **Manraj Mann** who also dabbles in the main library 
+> Bibliotheca's website created by **Manraj Mann** who also dabbles in the main library
+
 > Bibliotheca's main library created by **Tegvir Singh** who devotes his time trying to help others
 
-A University version of Bibliotheca could be made available in the near future, it would be created by the same people (unless you would like to help...)
+A University version of Bibliotheca could be made available shortly, it would be created by the same people (unless you would like to help...)
 
 ###The main purpose of bibliotheca
 - Help others succeed in their educational journeys
@@ -19,4 +20,4 @@ A University version of Bibliotheca could be made available in the near future, 
 
 ###Contact
 
-As of now we do not have a contact setup yet, in the near future (whenever we figure this stuff out) we will.
+We do not have a contact setup yet, but in the near future (whenever we figure this stuff out) we will.
