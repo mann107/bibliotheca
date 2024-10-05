@@ -1,6 +1,6 @@
 # Bibliotheca
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
 ## An Explanation
 
