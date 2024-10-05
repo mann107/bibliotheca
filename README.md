@@ -6,7 +6,7 @@ Bibliotheca is a vast online library which contains resources for different cour
 
 > Bibliotheca's website created by **Manraj Mann** who also dabbles in the main library
 
-> Bibliotheca's main library was created by **Tegvir Singh**
+> Bibliotheca's main library was created by **Tegvir Singh**, who dedicated his time to this library
 
 A University version of Bibliotheca could be made available shortly, it would be created by the same people (unless you would like to help...)
 
