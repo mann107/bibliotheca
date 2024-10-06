@@ -13,7 +13,7 @@ export const Header = () => {
           </div>
         </div>
         <div className='flex gap-4 items-center'>
-          <Button>Coming Soon</Button>
+          <Button>Coming Soon!</Button>
           <MenuIcon />
         </div>
       </div>
