@@ -22,7 +22,7 @@ export const Hero = () => {
         an online library with a plethora of resources to help with <b>your</b> academic journey.
         </p>
         <div className='flex justify-center mt-7'>
-        <Button>Coming Soon</Button>
+        <Button>Coming Soon!</Button>
         </div>
     </div>
   </section>
