@@ -4,11 +4,11 @@
 
 ## An Explanation
 
-Bibliotheca is a vast online library which contains resources for different courses following the Ontario grade 12 curriculum.
+Bibliotheca is a vast online library with resources for courses that follow the Ontario Grade 12 curriculum.
 
-> Bibliotheca is currently managed by two students, Tegvir Singh and Manraj Mann. They have devoted their time to making your lives easier (even if it's just by a bit)
+> Bibliotheca is currently managed by two students, Manraj Mann and Tegvir Singh. They have devoted their time to making your lives easier (even if it's just by a bit)
 
-A University version of Bibliotheca could be made available shortly, it would be created by the same people (unless you would like to help...)
+A University version of Bibliotheca could be made available shortly. It would be created by the same people (unless you would like to help).
 
 > [!WARNING]
 > Although we are trying to push out the most recent versions of everything, there can be mishaps that happen. Be sure to check whether or not the information is still relevant!
